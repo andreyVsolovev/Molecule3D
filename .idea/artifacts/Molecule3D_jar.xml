@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact name="Molecule3D:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Molecule3D_jar</output-path>
+    <root id="root">
+      <element id="archive" name="Molecule3D.jar">
+        <element id="module-output" name="Molecule3D" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="directory" name="ext">
+          <element id="file-copy" path="C:/j3d/lib/ext/j3dcore.jar" />
+          <element id="file-copy" path="C:/j3d/lib/ext/j3dutils.jar" />
+          <element id="file-copy" path="C:/j3d/lib/ext/vecmath.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
